@@ -1,3 +1,3 @@
 <?php
 
-echo 'tesسسسسt';
+echo 'test';
